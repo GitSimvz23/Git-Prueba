@@ -1,4 +1,9 @@
 body {
 background:greenyellow;
+align-items: baseline;
+text-align: justify;
+}
+p{
+color: black;
 
 }
